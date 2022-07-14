@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spring-rest-todo
 
 intellij spring initializr
@@ -17,3 +18,8 @@ http://localhost:8080/h2-console
 - [Integration Test a REST API with Java](https://www.baeldung.com/integration-testing-a-rest-api)
 - [Testing the Web Layer](https://spring.io/guides/gs/testing-web/)
 - [Spring Test – How to test a JSON Array in jsonPath](https://mkyong.com/spring-boot/spring-test-how-to-test-a-json-array-in-jsonpath/)
+=======
+# todo-app
+
+- [ToDo Rest API developed in Java using Spring and built with Gradle](./api/spring-gradle/README.md)
+>>>>>>> b65249a0e9a291324dc3f1946979ff7f1036472c
