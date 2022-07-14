@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS todo;
+
+CREATE TABLE todo (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    action varchar(255) NOT NULL
+);
